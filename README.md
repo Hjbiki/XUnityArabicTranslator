@@ -1,7 +1,7 @@
 # XUnityArabicTranslator
 مترجم مخصص للعربية مع XUnity.AutoTranslator
 
-[English](README_EN.md) | العربية
+<a name="lang-en"></a>[English](README_EN.md) | <a name="lang-ar"></a>العربية
 
 ## 📑 المحتويات
 - [نبذة](#section-about)
