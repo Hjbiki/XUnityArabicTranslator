@@ -10,7 +10,6 @@
 - [التثبيت](#section-installation-ar)
 - [الاستخدام](#section-usage-ar)
 - [المميزات الخاصة](#section-special-features-ar)
-- [المساهمة](#section-contributing-ar)
 - [الترخيص](#section-license-ar)
 - [الشكر والتقدير](#section-credits-ar)
 
@@ -68,14 +67,6 @@ Url=http://127.0.0.1:5000/translate
 - يحافظ على الأرقام
 - يحافظ على الرموز الخاصة
 
-<a name="section-contributing-ar"></a>
-## 🤝 المساهمة
-نرحب بمساهماتكم! يمكنكم المساهمة من خلال:
-- فتح قضايا جديدة
-- تقديم طلبات سحب
-- تحسين التوثيق
-- إضافة ميزات جديدة
-
 <a name="section-license-ar"></a>
 ## 📄 الترخيص
 هذا المشروع مرخص تحت [رخصة MIT](LICENSE).
@@ -103,7 +94,6 @@ Custom Arabic translator for XUnity.AutoTranslator
 - [Installation](#section-installation-en)
 - [Usage](#section-usage-en)
 - [Special Features](#section-special-features-en)
-- [Contributing](#section-contributing-en)
 - [License](#section-license-en)
 - [Credits](#section-credits-en)
 
@@ -161,13 +151,6 @@ Url=http://127.0.0.1:5000/translate
 - Preserves numbers
 - Preserves special characters
 
-<a name="section-contributing-en"></a>
-## 🤝 Contributing
-Contributions are welcome! You can contribute by:
-- Opening new issues
-- Submitting pull requests
-- Improving documentation
-- Adding new features
 
 <a name="section-license-en"></a>
 ## 📄 License
