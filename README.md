@@ -1,5 +1,5 @@
 # XUnityArabicTranslator
-مترجم مخصص للعربية مع XUnity.AutoTranslator
+مترجم مخصص للعربية للـ [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 
 <a name="lang-ar"></a>العربية | <a name="lang-en"></a>[English](#english-version)
 
@@ -83,7 +83,7 @@ Url=http://127.0.0.1:5000/translate
 
 <a name="english-version"></a>
 # XUnityArabicTranslator
-Custom Arabic translator for XUnity.AutoTranslator
+Custom Arabic translator for [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator)
 
 <a name="lang-en"></a>English | <a name="lang-ar"></a>[العربية](#lang-ar)
 
