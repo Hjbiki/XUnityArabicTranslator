@@ -7,5 +7,6 @@ obj/
 translation_cache.json
 arabic_debug.log
 developer.zip
-plugin/libs/Developer/
-plugin/libs/developer.zip
+plugin/libs/
+IDEAS.md
+*.html
