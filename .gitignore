@@ -1,0 +1,11 @@
+bin/
+obj/
+*.pdb
+*.user
+.vs/
+*.suo
+translation_cache.json
+arabic_debug.log
+developer.zip
+plugin/libs/Developer/
+plugin/libs/developer.zip
