@@ -14,9 +14,10 @@
 ### كيف تضيف خط عربي مدعوم (arabicsdf1):
 1. حمل الملف `arabicsdf1` من الريبو.
 2. حطه في مسار اللعبة (مكان وجود ال .exe).
-3. افتح ملف الـ **config** الخاص بـ XUnityAutoTranslator وضع السطر التالي:
+3. افتح ملف الـ **config** الخاص بـ XUnityAutoTranslator وحط في سطر:
 
    ```ini
+   [Behaviour]
    FallbackFontTextMeshPro=arabicsdf1
    ```
    **ملاحظة هامة:** هذا الحل ما يشتغل على جميع الألعاب ولا على كل إصدارات محرك Unity. 
@@ -106,6 +107,7 @@ EnableUIResizing=True
 3. Open the **config** file of XUnityAutoTranslator and add the following line:
 
    ```ini
+   [Behaviour]
    FallbackFontTextMeshPro=arabicsdf1
    ```
    Important Note:
