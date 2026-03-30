@@ -42,7 +42,7 @@ Endpoint=ArabicGoogleTranslate
 
 [General]
 Language=ar
-FromLanguage=ja
+FromLanguage=en
 
 [Behaviour]
 MaxCharactersPerTranslation=500
@@ -63,9 +63,9 @@ FixedLineWidth=0            # عرض سطر ثابت (0 = معطّل)
 ## كيف يشتغل
 
 ```
-النص الأصلي: "色々あって仲良くなり、最近は毎日のように遊びに来ている"
+النص الأصلي: "The quick brown fox jumps over the lazy dog"
         ↓ Google Translate API
-النص المترجم: "لقد أصبحنا أصدقاء من خلال أحداث مختلفة، ومؤخرا أصبحنا نأتي للزيارة كل يوم تقريبا."
+النص المترجم: "الثعلب البني السريع يقفز فوق الكلب الكسول"
         ↓ Arabic Reshaping (presentation forms)
         ↓ BiDi Reversal (RTL → visual LTR)
         ↓ Harmony Hook يقرأ preferredWidth و rectWidth من الـ text component
