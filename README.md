@@ -42,7 +42,24 @@ FromLanguage=en
 ```
 غيّر `FromLanguage` حسب لغة اللعبة: `en` إنجليزي، `ja` ياباني، `zh` صيني، `ko` كوري.
 
-### 4. شغّل اللعبة
+### 4. إعدادات منصوح فيها
+أضف هالإعدادات عشان تحصل أفضل نتيجة:
+```ini
+[Behaviour]
+MaxCharactersPerTranslation=500
+MinDialogueChars=2
+ForceUIResizing=True
+EnableUIResizing=True
+```
+
+| الإعداد | ايش يسوي |
+|---|---|
+| `MaxCharactersPerTranslation=500` | يترجم نصوص أطول (الافتراضي 200 قليل) |
+| `MinDialogueChars=2` | يترجم حتى النصوص القصيرة |
+| `ForceUIResizing=True` | يعدّل حجم المربعات عشان النص العربي يسع ولا يتداخل |
+| `EnableUIResizing=True` | يفعّل تعديل حجم الواجهة تلقائياً |
+
+### 5. شغّل اللعبة
 أول تشغيل يكون أبطأ لأنه يترجم كل النصوص. بعدها تتحفظ الترجمات تلقائياً.
 
 ## مشاكل شائعة
